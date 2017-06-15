@@ -1,2 +1,2 @@
-# ejercicos-en-C
+# Ejercicos-en-C
 Ejercicios basicos en C
